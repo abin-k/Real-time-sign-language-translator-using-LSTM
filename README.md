@@ -1,5 +1,5 @@
 # REAL-TIME SIGN LANGUAGE TRANSLATOR
-A LSTM network which can translate sign language in real-time using sequential frames
+A LSTM network which can translate sign language to text in real-time using sequential frames
 ![Refresh_ASL (1)](https://github.com/abin-k/real-time_sign_language_translator/assets/116078614/a7672e91-bfd9-4f66-aca2-b87f3f65f44c)
 
 # RELEVANCE
@@ -11,3 +11,10 @@ billion annually due to health sector costs (excluding the cost of hearing devic
 
 In this contemporary era, with the help of technological advancement, there are many mechanism to help deaf and dumb people. But one of the main porblem which
 continues is the difficulties in communicating with them.
+
+# PROJECT
+Developed a LSTM network which can translate sign language to text in real-time using OpenCV. The model uses sequential frames of an action and predict the action 
+in real time. The model has a accuracy of 96.47% . Mediapipe, an open-source framework is used for extration of key points and detecting the sign
+
+![Screenshot (15)](https://github.com/abin-k/real-time_sign_language_translator/assets/116078614/e1a30fc0-e369-478e-bfad-97d5ef2141a9)
+![Screenshot (10)](https://github.com/abin-k/real-time_sign_language_translator/assets/116078614/750fc0f8-680e-4c5d-84a8-978ea041b55c)
